@@ -86,11 +86,13 @@ Access to resources correlates with higher treatment seeking  compared to those 
 
 Anonymity:
 Perceived anonymity correlates with higher treatment seeking (59%) compared to those uncertain or believing otherwise
+
 Leave:
 Those who find it "Very difficult" are more likely to seek treatment  compared to those who find it "Very easy"
 
 mental_health_interview:
 80% would not bring up mental health issues in interviews
+
 Those willing to discuss are more likely to seek treatment compared to those unwilling
 
 •  Family history and perceived work interference due to mental health issues are strong indicators of treatment seeking behavior.
