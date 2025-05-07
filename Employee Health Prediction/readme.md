@@ -27,6 +27,15 @@ Male : 830
 Female : 207
 Trans : 7
 
+(Make                    
+Female (trans)                
+Man   
+Trans-female
+Malr
+non-binary
+)
+
+
 Country Details :
 Countries  : 42
 States : 45
