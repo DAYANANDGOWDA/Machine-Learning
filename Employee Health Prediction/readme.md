@@ -2,30 +2,30 @@
 
 **Feature Overview :**
 
-1.	Age : Age of the Employee
-2.	Gender : Gender of the Employee
-3.	self_employed: Are you self-employed?
-4.	family_history: Do you have a family history of mental illness?
-5.	work_interfere: If you have a mental health condition, do you feel that it interferes with your work? 
-6.	no_employees: How many employees does your company or organization have?
-7.	remote_work: Do you work remotely (outside of an office) at least 50% of the time?
-8.	tech_company: Is your employer primarily a tech company/organization?
-9.	care_options: Do you know the options for mental health care your employer provides?
-10.	benefits: Does your employer provide mental health benefits?
-11.	leave: How easy is it for you to take medical leave for a mental health condition?
-12.	supervisor: Would you be willing to discuss a mental health issue with your direct supervisor(s)?
-13.	treatment: Does he or she really needs treatment. 
+1.	Age              : Age of the Employee
+2.	Gender           : Gender of the Employee
+3.	self_employed    : Are you self-employed?
+4.	family_history   : Do you have a family history of mental illness?
+5.	work_interfere   : If you have a mental health condition, do you feel that it interferes with your work? 
+6.	no_employees     : How many employees does your company or organization have?
+7.	remote_work      : Do you work remotely (outside of an office) at least 50% of the time?
+8.	tech_company     : Is your employer primarily a tech company/organization?
+9.	care_options     : Do you know the options for mental health care your employer provides?
+10.	benefits        : Does your employer provide mental health benefits?
+11.	leave           : How easy is it for you to take medical leave for a mental health condition?
+12.	supervisor      : Would you be willing to discuss a mental health issue with your direct supervisor(s)?
+13.	treatment       : Does he or she really needs treatment. 
 
 **Dataset Summary :**
 
 Dataset summary :
-Rows : 1048
+Rows    : 1048
 Columns : 28
 
 Gender Distribution:
-Male : 830
+Male   : 830
 Female : 207
-Trans : 7
+Trans  : 7
 
 (Make                    
 Female (trans)                
